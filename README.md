@@ -1,9 +1,31 @@
-## COSC 369 Office Hours Project
+# COSC 369 – Office Hours Project
 
-This program reads class and faculty information from two text files and generates class schedules and office hours. It also uses a static library called libschedule.a.
+## Description
+This project uses C, Python, and Prolog files to work with class schedules, faculty information, and office hours.
 
-# Compile:
+## Project Files
+- C: Main program and scheduling functions
+- Python: Parsing, queries, and testing scripts
+- Prolog: Knowledge base, facts, and rules
+- class_schedule.txt: Class schedule data
+- faculty.txt: Faculty information
+- Makefile: Build instructions
+
+## Requirements
+- C compiler (GCC or Clang)
+- Make
+- Python 3
+- SWI-Prolog (for Prolog components)
+
+## Compile
 make
 
-# Run:
+## Run C Program
 ./scheduler
+
+## Additional Components
+Python and Prolog source files are included in the repository.
+See the source files for their functions.
+
+## Author
+GitHub: Fonzorelli
