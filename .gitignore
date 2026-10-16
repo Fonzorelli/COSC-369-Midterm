@@ -1,0 +1,6 @@
+*.o
+*.a
+scheduler
+__pycache__/
+*.pyc
+.DS_Store
